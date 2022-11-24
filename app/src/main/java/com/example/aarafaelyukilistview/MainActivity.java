@@ -19,6 +19,9 @@ import com.google.firebase.database.FirebaseDatabase;
 
 public class MainActivity extends AppCompatActivity {
 
+
+    //Rafael Bianchi Presta e Yuki Hiroji Oyama
+
     //Atributos representando os objetos gráficos da interface
 
     private EditText txtMesa;
